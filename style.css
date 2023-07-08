@@ -1,0 +1,99 @@
+body {
+    background-color: rgba(236, 236, 238, 0.753);
+    text-align: center;
+}
+
+.h2 {
+    text-align: center;
+    color: rgb(238, 6, 6);
+}
+
+.container {
+    text-align: left;
+    color: rgba(2, 18, 107, 0.938);
+    border-color: rgb(255, 0, 0);
+    border-bottom-color: rgb(22, 2, 77);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 300px;
+}
+
+.p {
+    text-align: left;
+}
+
+control {
+    text-align: left;
+    border: left width 100px;
+    padding-bottom: 50px;
+    border-bottom: 50px;
+}
+
+.btn btn-primary {
+    border-color: rgba(0, 0, 255, 0);
+    background-color: rgba(0, 38, 255, 0.842);
+    display: contents;
+    cursor: pointer;
+    text-align: center;
+}
+
+. {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 100%;
+    min-height: 100vh;
+    background: rgba(220, 220, 235, 0.425);
+    background-image: url(camera.webp);
+    background-size: 50% 50%;
+    background: linear-gradient(282deg, rgba(0, 0, 255, 0.397));
+}
+
+.box {
+    max-width: 300px;
+    background: white;
+    padding: 50px;
+    width: 50%;
+    box-shadow: 50;
+    scrollbar-shadow-color: blue;
+    position: relative;
+    background-color: rgba(235, 231, 231, 0.938);
+    border-radius: 10px / 10px;
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    color: black
+}
+
+.filettype {
+    color: black
+}
+
+.uploadlabel {
+    width: 100%;
+    min-height: 100px;
+    background: rgba(16, 158, 224, 0.849);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px dashed darkgrey;
+    cursor: pointer;
+}
+
+.uploaded {
+    text-align: center;
+}
